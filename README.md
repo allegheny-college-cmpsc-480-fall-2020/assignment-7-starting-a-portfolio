@@ -1,5 +1,5 @@
 # CMPSC 480: Assignment 7, Starting a portfolio
-* Point value: 100 pts.
+* Point value: 400 pts.
 * Due: 20 November
   * With supporting assignments along the way
 
